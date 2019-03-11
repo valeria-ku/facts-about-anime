@@ -102,7 +102,7 @@ body {
 
 #header_content_boxline {
 	font-size:35px;
-	color:#000000;
+	color:#D2691E;
 	width:400px;
 	font-style: italic;
 }
@@ -115,8 +115,8 @@ body {
 }
 
 #header_content_boxcontent {
-	font-size:12px;
-	color:#333333;
+	font-size:16px;
+	color:#CD853F;
 	width:400px;
 	font-style: italic;
 }
